@@ -8,4 +8,4 @@ The employee Analysis project utilises the SQL to perform data analysis on an em
 
 ##  Queries done
 1) ** total number of employee**
-   ![result screenshot](Screenshot 2024-05-18 080115.png)
+   ![result screenshot]()
