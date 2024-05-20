@@ -11,4 +11,5 @@ The employee Analysis project utilises the SQL to perform data analysis on an em
 
     ![result screenshot](https://github.com/Emmzy1234/SQL-Project-finance/blob/master/Screenshot%202024-05-18%20041548.png)
 
-2) ** Employee with the highest tenure
+2) ** avg salary of the human resources department**
+   ![result screenshot](Screenshot 2024-05-18 041548.png)
