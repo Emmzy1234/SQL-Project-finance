@@ -28,3 +28,4 @@ The employee Analysis project utilises the SQL to perform data analysis on an em
 
 6) created a view
    
+   ![result screenshot](https://github.com/Emmzy1234/SQL-Project-finance/blob/master/Screenshot%202024-05-18%20042342.png)
